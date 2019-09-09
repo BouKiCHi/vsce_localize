@@ -1,0 +1,14 @@
+{
+  "name": "vsce_localize",
+  "version": "0.1.0",
+  "description": "utility to make localization of vscode extension",
+  "bin" : {
+    "vsce_localize" : "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boukichi",
+  "license": "MIT"
+}
